@@ -10,11 +10,10 @@ Data Description:
 - Dataset: [dataset name]
 - source: [data source]
 - size: [Number of rows]*[Number of columns]
-- columns:- Sales id
---
-          - Product Name
---
-          - Category
+- columns:
+--        - Sales ID
+--        - Product Name
+--      - Category
 --  
           - Region
 --  
