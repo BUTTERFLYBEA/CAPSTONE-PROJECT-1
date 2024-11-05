@@ -1,2 +1,4 @@
-# LITA-CLASS-PROJECT
-This is where I documented my repository for my class project
+### SALES DATA
+## PROJECT TITTLE: SALES DATA ANALYSIS
+# Project overview
+
