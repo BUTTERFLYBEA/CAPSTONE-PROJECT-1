@@ -11,20 +11,30 @@ Data Description:
 - source: [data source]
 - size: [Number of rows]*[Number of columns]
 - columns:- Sales id
+--
           - Product Name
+--
           - Category
+--  
           - Region
+--  
           - Date
+--  
           - Sales Amount
 ---
 Dashboard Review:
 - Dashboard name: sales performance dashboard
 - purpose: visualize key sales metrics and trends
 - component:
+--
             - sales by region
+--  
             - top selling product
+--  
             - sales trends over time
+--  
             - category wise sales
+ -- 
 
 ---
 Data Source:
@@ -34,6 +44,7 @@ Data Source:
 
 ---
 Tools Used:
+---
 - data analysis:
 - data visualization: Power BI
 - database management: SQL Server
@@ -50,16 +61,22 @@ Data Cleaning and preparation:
 ---
 SQL QUERY:
 ---
+--
 SELECT
      [Columns]
+--     
 FROM
     [table]
+--    
 WHERE
      [condition]
+ --    
 GROUP BY
         [columns]
+--        
 ORDER BY
        [columns];
+ --      
 
 ---
 Insight Generation:
