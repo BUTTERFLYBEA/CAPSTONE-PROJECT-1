@@ -22,18 +22,18 @@ Data Description:
 - Dataset: [dataset name]
 - source: [data source]
 - size: [Number of rows]*[Number of columns]
-- columns:
---       - Sales ID
+- Columns:
+  - Sales ID
   
---       - Product Name
+  -Product Name
   
---       - Category
+  - Category
  
---       - Region
+  - Region
 
---       - Date
+  - Date
 
- --      - Sales Amount
+  - Sales Amount
  
 ---
 Dashboard Review:
