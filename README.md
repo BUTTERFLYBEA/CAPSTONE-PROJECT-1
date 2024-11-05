@@ -1,4 +1,4 @@
-# SALES DATA
+# CAPSTONE PROJECT 1
 ## PROJECT TITTLE: SALES DATA ANALYSIS
 ---
 - [Project overview](#project-overview)
