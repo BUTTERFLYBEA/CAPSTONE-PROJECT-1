@@ -1,16 +1,16 @@
 # SALES DATA
 ## PROJECT TITTLE: SALES DATA ANALYSIS
 ---
-- [Project overview] [#project-overview]
-- [Data Description] [#data-description]
-- [Dashboard Review] [#dashboard-review]
-- [Data Source] [#data-source]
-- [Tools Used] [#tools-used]
-- [Data Cleaning and Preparation] [#data-cleaning-and-preparation]
-- [SQL Query] [#sql-query]
-- [Insight Generation] [#insight-generation]
-- [SQL Query Document] [#sql-query-document]
-- [Power BI Dashboard] [#power-bi-dashboard]
+- [Project overview](#project-overview)
+- [Data Description](#data-description)
+- [Dashboard Review](#dashboard-review)
+- [Data Source](#data-source)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [SQL Query]([#sql-query)
+- [Insight Generation](#insight-generation)
+- [SQL Query Document](#sql-query-document)
+- [Power BI Dashboard](#power-bi-dashboard)
   
 ---
 # Project overview:
@@ -24,15 +24,10 @@ Data Description:
 - size: [Number of rows]*[Number of columns]
 - Columns:
   - Sales ID
-  
-  -Product Name
-  
+  - Product Name
   - Category
- 
   - Region
-
   - Date
-
   - Sales Amount
  
 ---
@@ -40,31 +35,29 @@ Dashboard Review:
 ---
 - Dashboard name: sales performance dashboard
 - purpose: visualize key sales metrics and trends
-- component:
---
-            - sales by region
---  
-            - top selling product
---  
-            - sales trends over time
---  
-            - category wise sales
- -- 
+- Component:
+- Sales by Region
+- Top-selling products
+- Sales trend overtime
+- Category-wise sales
 
 ---
 Data Source:
 ---
-- Source [database name ]
-- Type: [relational database, CSV file, etc.]
-- Connection: [ODBC,API,etc.]
+- Source:
+-  [database name ]
+- Type:
+- [relational database, CSV file, etc.]
+- Connection:
+- [ODBC,API,etc.]
 
 ---
 Tools Used:
 ---
-- data analysis:
-- data visualization: Power BI
-- database management: SQL Server
-- SQL Client: [SQL Client Tool]
+- Data Analysis: Micro soft excel
+- Data Visualization: Power BI
+- Database Management: SQL Server
+- SQL Client: SQL Client Tool
 
 ---
 Data Cleaning and preparation:
@@ -140,10 +133,12 @@ Power BI Dashboard
 - page 1: Sales overview 
           sales trend over time
           sales by region
+  
 - page 2: Product performance 
          - top selling products 
-         - product wise sales 
--Page 3: Category Analysis 
+         - product wise sales
+         
+- Page 3: Category Analysis 
         - category wise sales
         - category wise sales trend
             
