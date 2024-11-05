@@ -1,16 +1,16 @@
 # SALES DATA
 ## PROJECT TITTLE: SALES DATA ANALYSIS
 ---
-- [Project overview] [#Project-overview]
-- [Data Description] [#Data-Description]
-- [Dashboard Review] [#Dashboard-Review]
-- [Data Source] [#Data-Source]
-- [Tools Used] [#Tools-Used]
-- [Data Cleaning and Preparation] [#Data-Cleaning-and-Preparation]
-- [SQL Query] [#SQL-Query]
-- [Insight Generation] [#Insight-Generation]
-- [SQL Query Document] [#SQL-Query-Document]
-- [Power BI Dashboard] [#Power-BI-Dashboard]
+- [Project overview] [#project-overview]
+- [Data Description] [#data-description]
+- [Dashboard Review] [#dashboard-review]
+- [Data Source] [#data-source]
+- [Tools Used] [#tools-used]
+- [Data Cleaning and Preparation] [#data-cleaning-and-preparation]
+- [SQL Query] [#sql-query]
+- [Insight Generation] [#insight-generation]
+- [SQL Query Document] [#sql-query-document]
+- [Power BI Dashboard] [#power-bi-dashboard]
   
 ---
 # Project overview:
