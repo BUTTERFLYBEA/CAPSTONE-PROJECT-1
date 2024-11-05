@@ -11,17 +11,21 @@ Data Description:
 - source: [data source]
 - size: [Number of rows]*[Number of columns]
 - columns:
---        - Sales ID
---        - Product Name
---      - Category
---  
-          - Region
---  
-          - Date
---  
-          - Sales Amount
+--       - Sales ID
+  
+--       - Product Name
+  
+--       - Category
+ 
+--       - Region
+
+--       - Date
+
+ --      - Sales Amount
+ 
 ---
 Dashboard Review:
+---
 - Dashboard name: sales performance dashboard
 - purpose: visualize key sales metrics and trends
 - component:
@@ -37,6 +41,7 @@ Dashboard Review:
 
 ---
 Data Source:
+---
 - Source [database name ]
 - Type: [relational database, CSV file, etc.]
 - Connection: [ODBC,API,etc.]
